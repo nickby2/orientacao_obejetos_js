@@ -1,3 +1,24 @@
 {
-  "description": ""
+  "name": "orientacao_obejetos_js",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "User.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickby2/orientacao_obejetos_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickby2/orientacao_obejetos_js/issues"
+  },
+  "homepage": "https://github.com/nickby2/orientacao_obejetos_js#readme"
 }
